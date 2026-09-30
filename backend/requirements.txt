@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+python-multipart
+cryptography
+yt-dlp
+faster-whisper
+pytesseract

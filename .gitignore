@@ -1,0 +1,27 @@
+# env & secrets
+.env
+*.pem
+*.key
+
+# data runtime (video, frame, database lokal)
+data/
+*.db
+*.db-journal
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# node / frontend build
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# logs & temp
+*.log
+/tmp/
